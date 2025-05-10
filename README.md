@@ -1,4 +1,4 @@
-# Olá, sou o Tales Lima! 👋
+# Olá, sou o Tales Lima! 
 
 🚀 **Desenvolvedor de Software** | 🎓 Estudante de Engenharia da Computação (Anhanguera - EAD)  
 💡 **Empreendedor em Tecnologia** - Empreendimento em fase de criação com foco em soluções inovadoras para ambientes industriais.  
