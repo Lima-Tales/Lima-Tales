@@ -16,4 +16,5 @@ Além disso, estou sempre explorando novas tecnologias, como automação, IA e i
 
 ## 🚀 Conecte-se comigo
 - [Instagran] https://www.instagram.com/lima.tales/ pessoal privado
-- [Whatsapp] 
+- [Linkdin] www.linkedin.com/in/tales-lima ( ainda em fase de criação)
+
