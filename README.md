@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou o Tales Lima! 👋
 
-<!--
-**Lima-Tales/Lima-Tales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desenvolvedor de Software** | 🎓 Estudante de Engenharia da Computação (Anhanguera - EAD)  
+💡 **Empreendedor em Tecnologia** - Empreendimento em fase de criação com foco em soluções inovadoras para ambientes industriais.  
+📚 **Certificado em Desenvolvimento de Sistemas** pelo SENAC | 180 horas de aperfeiçoamento
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que uso
+- **Desenvolvimento Web,mobile,desktop**: Laravel, Flutter, FastAPI, Python
+- **Banco de Dados**: MySQL
+- **Automação e Hardware**: Arduino, Eletrônica Básica
+- **Ferramentas**: Git, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Projetos Pessoais
+Estou desenvolvendo um **empreendimento de tecnologia** voltado para **soluções inovadoras** no setor industrial e residencial. 
+Além disso, estou sempre explorando novas tecnologias, como automação, IA e integração de sistemas.
+
+## 🚀 Conecte-se comigo
+- [Instagran] https://www.instagram.com/lima.tales/ pessoal privado
+- [Whatsapp] +55 (37)98813-0356
